@@ -1,0 +1,13 @@
+com\multicert\database\tables\Endereco.class
+com\multicert\exceptions\SoapAPIexception.class
+com\multicert\database\tables\Contacto.class
+com\multicert\db\connection\DatabaseConnection.class
+com\multicert\gestorclienteswebserver\exinesmc\GestorClientesWebService.class
+com\multicert\exceptions\CorrespondenciaNifException.class
+com\multicert\service\ServiceInterface.class
+com\multicert\database\tables\TipoDeCliente.class
+com\multicert\service\Servico.class
+com\multicert\exceptions\ServiceException.class
+com\multicert\database\tables\Cliente.class
+com\multicert\repositorio\queries\QueriesInterface.class
+com\multicert\repositorio\queries\Queries.class
